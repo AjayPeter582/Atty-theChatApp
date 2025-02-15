@@ -43,7 +43,7 @@ A real-time chat application built using the MERN stack with Socket.io for smoot
 ### 1️⃣ Clone the repository
 ```sh
 git clone https://github.com/AjayPeter582/Atty-theChatApp.git
-cd atty=theChatApp
+cd Atty-theChatApp
 ```
 
 ### 2️⃣ Install dependencies
@@ -59,7 +59,7 @@ npm install
 ```
 
 ### 3️⃣ Setup environment variables
-Create a `.env` file in the `server` directory and add:
+Create a `.env` file in the `backend` directory and add:
 ```
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
