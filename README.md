@@ -15,10 +15,10 @@ A real-time chat application built using the MERN stack with Socket.io for smoot
 ## 🖥️ Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ### Chat Interface
-![Chat Interface](screenshots/chat.png)
+![Chat Interface](screenshots/chat-interface.png)
 
 ### Login Page
 ![Login Page](screenshots/login.png)
