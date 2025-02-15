@@ -3,6 +3,10 @@
 A real-time chat application built using the MERN stack with Socket.io for smooth messaging. The frontend is designed with React, Tailwind CSS, and Daisy UI.
 
 ## 🚀 Features
+- Supports up to 30 themes using Daisy UI
+- Works flawlessly on mobile devices
+- Can exchange text messages and even images
+- Supports up to 30 themes using Daisy UI
 - Real-time messaging with Socket.io
 - User authentication (Signup/Login)
 - Responsive and modern UI with Tailwind and Daisy UI
