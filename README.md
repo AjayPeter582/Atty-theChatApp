@@ -14,14 +14,15 @@ A real-time chat application built using the MERN stack with Socket.io for smoot
 
 ## 🖥️ Screenshots
 
+### Login Page
+![Login Page](screenshots/login.png)
+
 ### Home Page
 ![Home Page](screenshots/Home.png)
 
 ### Chat Interface
 ![Chat Interface](screenshots/chat-interface.png)
 
-### Login Page
-![Login Page](screenshots/login.png)
 
 ## 🛠️ Tech Stack
 
@@ -41,19 +42,19 @@ A real-time chat application built using the MERN stack with Socket.io for smoot
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/yourusername/atty.git
-cd atty
+git clone https://github.com/AjayPeter582/Atty-theChatApp.git
+cd atty=theChatApp
 ```
 
 ### 2️⃣ Install dependencies
 #### Backend
 ```sh
-cd server
+cd backend
 npm install
 ```
 #### Frontend
 ```sh
-cd client
+cd frontend
 npm install
 ```
 
@@ -68,13 +69,13 @@ SOCKET_PORT=5000
 ### 4️⃣ Run the application
 #### Start the backend server
 ```sh
-cd server
-npm start
+cd backend
+npm run start
 ```
 #### Start the frontend
 ```sh
-cd client
-npm start
+cd frontend
+npm run start
 ```
 
 ## 🌍 Deployment
