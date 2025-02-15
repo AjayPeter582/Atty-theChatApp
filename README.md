@@ -83,12 +83,6 @@ npm run start
 - **Backend:** Hosted on Render
 - **Database:** MongoDB Atlas
 
-## 🤝 Contributing
-Feel free to fork and contribute! Pull requests are welcome.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 **Developed by [Ajay Peter](https://github.com/AjayPeter582)**
 
