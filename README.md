@@ -87,8 +87,8 @@ npm run start
 Feel free to fork and contribute! Pull requests are welcome.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Developed by [Your Name](https://github.com/yourusername)**
+**Developed by [Ajay Peter](https://github.com/AjayPeter582)**
 
