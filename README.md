@@ -63,18 +63,21 @@ Create a `.env` file in the `backend` directory and add:
 ```
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
-SOCKET_PORT=5000
+PORT=5001
+
+CLOUDINARY_CLOUD_NAME=...
+CLOUDINARY_API_KEY=...
+CLOUDINARY_API_SECRET=...
+
+NODE_ENV=development
 ```
 
-### 4️⃣ Run the application
-#### Start the backend server
+### 4️⃣ Build the application
 ```sh
-cd backend
-npm run start
+npm run build
 ```
-#### Start the frontend
+### 4️⃣ Run the application
 ```sh
-cd frontend
 npm run start
 ```
 
